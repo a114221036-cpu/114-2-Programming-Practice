@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApp1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            int[] myArray = new int[] { 10, 40, 50, 30, 20 };
+            Lbl1.Text = "排序前：";
+            Lbl2.Text = "排序後：";
+
+            ShowArray(ref myArray, Lbl1);
+            Array.Sort(myArray);
+            ShowArray(ref myArray, Lbl2);
+        }
+
+        private void ShowArray(ref int[] vArray, Label lblShow)
+        {
+            for (int i = 0; i < vArray.Length; i++)
+            {
+                lblShow.Text += vArray[i] + " ";
+            }
+        }
+    }
+}
+    
