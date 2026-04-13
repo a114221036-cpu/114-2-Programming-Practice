@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{03468DBB-ADE4-49CB-A3BF-3A540D0D62EA}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03468DBB-ADE4-49CB-A3BF-3A540D0D62EA}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\m303\\desktop\\114-2-programming-practice\\115-03-30\\windowsformsapp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03468DBB-ADE4-49CB-A3BF-3A540D0D62EA}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-03-30\\WindowsFormsApp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03468DBB-ADE4-49CB-A3BF-3A540D0D62EA}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
