@@ -46,3 +46,14 @@ C:\Users\User\Desktop\114_1_C_Sharp\114_10_08\Tutorial 3-5\Change Counter\Change
 C:\Users\User\Desktop\114_1_C_Sharp\114_10_08\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\114_1_C_Sharp\114_10_08\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.exe
 C:\Users\User\Desktop\114_1_C_Sharp\114_10_08\Tutorial 3-5\Change Counter\Change Counter\obj\x86\Debug\Change Counter.pdb
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\bin\Debug\Change Counter.exe.config
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\obj\x86\Debug\Change Counter.exe.config
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Form1.resources
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\obj\x86\Debug\Change_Counter.Properties.Resources.resources
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.GenerateResource.cache
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\obj\x86\Debug\Change Counter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\obj\x86\Debug\Change Counter.exe
+C:\Users\User\Desktop\114-2-Programming-Practice\期中報告\Change Counter\Change Counter\obj\x86\Debug\Change Counter.pdb
