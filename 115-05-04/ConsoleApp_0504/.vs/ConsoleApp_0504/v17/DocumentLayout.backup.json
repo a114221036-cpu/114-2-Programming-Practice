@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-04\\ConsoleApp_0504\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACCF7C3-B20C-4407-BFBC-B8F9231D08A9}|ConsoleApp_0504.csproj|c:\\users\\m303\\desktop\\114-2-programming-practice\\115-05-04\\consoleapp_0504\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACCF7C3-B20C-4407-BFBC-B8F9231D08A9}|ConsoleApp_0504.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACCF7C3-B20C-4407-BFBC-B8F9231D08A9}|ConsoleApp_0504.csproj|c:\\users\\m303\\desktop\\114-2-programming-practice\\115-05-04\\consoleapp_0504\\studentpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACCF7C3-B20C-4407-BFBC-B8F9231D08A9}|ConsoleApp_0504.csproj|solutionrelative:studentpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACCF7C3-B20C-4407-BFBC-B8F9231D08A9}|ConsoleApp_0504.csproj|c:\\users\\m303\\desktop\\114-2-programming-practice\\115-05-04\\consoleapp_0504\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACCF7C3-B20C-4407-BFBC-B8F9231D08A9}|ConsoleApp_0504.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentPro.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-04\\ConsoleApp_0504\\StudentPro.cs",
+              "RelativeDocumentMoniker": "StudentPro.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-04\\ConsoleApp_0504\\StudentPro.cs",
+              "RelativeToolTip": "StudentPro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:33:14.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-04\\ConsoleApp_0504\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-04\\ConsoleApp_0504\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:19:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-04\\ConsoleApp_0504\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-04\\ConsoleApp_0504\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:18:07.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
