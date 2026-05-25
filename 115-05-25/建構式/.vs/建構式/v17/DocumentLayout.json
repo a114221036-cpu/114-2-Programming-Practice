@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E19482E-E03A-4ACC-B418-4C63F7EB7287}|\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F.csproj|c:\\users\\m303\\desktop\\114-2-programming-practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E19482E-E03A-4ACC-B418-4C63F7EB7287}|\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F.csproj|solutionrelative:\u5EFA\u69CB\u5F0F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E19482E-E03A-4ACC-B418-4C63F7EB7287}|\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F.csproj|c:\\users\\m303\\desktop\\114-2-programming-practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E19482E-E03A-4ACC-B418-4C63F7EB7287}|\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F.csproj|solutionrelative:\u5EFA\u69CB\u5F0F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E19482E-E03A-4ACC-B418-4C63F7EB7287}|\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F.csproj|c:\\users\\m303\\desktop\\114-2-programming-practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F\\sudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E19482E-E03A-4ACC-B418-4C63F7EB7287}|\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F.csproj|solutionrelative:\u5EFA\u69CB\u5F0F\\sudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F\\Form1.cs",
+              "RelativeDocumentMoniker": "\u5EFA\u69CB\u5F0F\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F\\Form1.cs",
+              "RelativeToolTip": "\u5EFA\u69CB\u5F0F\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:46:58.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sudent.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F\\Sudent.cs",
+              "RelativeDocumentMoniker": "\u5EFA\u69CB\u5F0F\\Sudent.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F\\Sudent.cs",
+              "RelativeToolTip": "\u5EFA\u69CB\u5F0F\\Sudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:45:49.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F\\Form1.cs",
+              "RelativeDocumentMoniker": "\u5EFA\u69CB\u5F0F\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114-2-Programming-Practice\\115-05-25\\\u5EFA\u69CB\u5F0F\\\u5EFA\u69CB\u5F0F\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "\u5EFA\u69CB\u5F0F\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:42:21.891Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
