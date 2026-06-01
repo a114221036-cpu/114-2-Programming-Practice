@@ -1,0 +1,10 @@
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\bin\Debug\學校專案.exe.config
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\bin\Debug\學校專案.exe
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\bin\Debug\學校專案.pdb
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\obj\Debug\學校專案.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\obj\Debug\學校專案.Form1.resources
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\obj\Debug\學校專案.Properties.Resources.resources
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\obj\Debug\學校專案.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\obj\Debug\學校專案.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\obj\Debug\學校專案.exe
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\學校專案\學校專案\obj\Debug\學校專案.pdb

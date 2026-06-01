@@ -1,0 +1,69 @@
+﻿namespace FinallyExam
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// 設計工具所需的變數。
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.Button btnCalculate;
+        private System.Windows.Forms.ListBox lstResults;
+
+        /// <summary>
+        /// 清除任何使用中的資源。
+        /// </summary>
+        /// <param name="disposing">如果應該處置受控資源則為 true，否則為 false。</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form 設計工具產生的程式碼
+
+        /// <summary>
+        /// 此為設計工具支援所需的方法 - 請勿使用程式碼編輯器修改
+        /// 這個方法的內容。
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.btnCalculate = new System.Windows.Forms.Button();
+            this.lstResults = new System.Windows.Forms.ListBox();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            // 
+            // btnCalculate
+            // 
+            this.btnCalculate.Location = new System.Drawing.Point(12, 12);
+            this.btnCalculate.Name = "btnCalculate";
+            this.btnCalculate.Size = new System.Drawing.Size(120, 30);
+            this.btnCalculate.TabIndex = 0;
+            this.btnCalculate.Text = "計算 100 位學生";
+            this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
+            // 
+            // lstResults
+            // 
+            this.lstResults.FormattingEnabled = true;
+            this.lstResults.ItemHeight = 16;
+            this.lstResults.Location = new System.Drawing.Point(12, 54);
+            this.lstResults.Name = "lstResults";
+            this.lstResults.Size = new System.Drawing.Size(776, 388);
+            this.lstResults.TabIndex = 1;
+            // 
+            // Form1
+            // 
+            this.Controls.Add(this.btnCalculate);
+            this.Controls.Add(this.lstResults);
+            this.Name = "Form1";
+            this.Text = "推甄分數計算";
+        }
+
+        #endregion
+    }
+}
+

@@ -1,0 +1,9 @@
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\系上專案\系上專案\bin\Debug\系上專案.exe.config
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\系上專案\系上專案\bin\Debug\系上專案.exe
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\系上專案\系上專案\bin\Debug\系上專案.pdb
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\系上專案\系上專案\obj\Debug\系上專案.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\系上專案\系上專案\obj\Debug\系上專案.Properties.Resources.resources
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\系上專案\系上專案\obj\Debug\系上專案.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\系上專案\系上專案\obj\Debug\系上專案.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\系上專案\系上專案\obj\Debug\系上專案.exe
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\系上專案\系上專案\obj\Debug\系上專案.pdb

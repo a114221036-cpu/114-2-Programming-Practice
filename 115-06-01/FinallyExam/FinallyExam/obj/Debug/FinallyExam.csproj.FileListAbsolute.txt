@@ -1,0 +1,9 @@
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\FinallyExam\FinallyExam\bin\Debug\FinallyExam.exe.config
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\FinallyExam\FinallyExam\bin\Debug\FinallyExam.exe
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\FinallyExam\FinallyExam\bin\Debug\FinallyExam.pdb
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\FinallyExam\FinallyExam\obj\Debug\FinallyExam.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\FinallyExam\FinallyExam\obj\Debug\FinallyExam.Properties.Resources.resources
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\FinallyExam\FinallyExam\obj\Debug\FinallyExam.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\FinallyExam\FinallyExam\obj\Debug\FinallyExam.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\FinallyExam\FinallyExam\obj\Debug\FinallyExam.exe
+C:\Users\m303\Desktop\114-2-Programming-Practice\115-06-01\FinallyExam\FinallyExam\obj\Debug\FinallyExam.pdb
